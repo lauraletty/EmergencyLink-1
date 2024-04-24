@@ -8,7 +8,7 @@ fun HomeScreen(navController: NavHostController){
 
 }
 @Composable
-@Preview(showBackground = true)
+@Preview(showBackground = true, showSystemUi = true)
 fun HomeScreenPreview(){
 
 }
